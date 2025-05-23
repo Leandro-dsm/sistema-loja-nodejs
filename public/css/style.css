@@ -1,0 +1,28 @@
+
+
+.custom-navbar{
+
+    background-color:black;
+}
+.principal {
+    height: 200px;
+    width: 100%;
+    background-image: url("/images/projetologo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    background-color: black;
+}
+
+.bv{
+    color: black;
+}
+
+.p1{
+    font-size: 2rem;
+    color: black;
+}
+
+.img_cliente{
+   width: 50px;
+}

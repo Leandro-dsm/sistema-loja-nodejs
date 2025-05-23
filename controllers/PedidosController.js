@@ -7,7 +7,7 @@ router.get("/pedidos/", (req, res) => {
 
     const pedidos = [
         {
-            imagem:'/images/lixa.jpe',
+            imagem:'/images/lixa.jpeg',
             numeroPedido: 1,
             valor: 65
         },
